@@ -1,0 +1,28 @@
+{
+  "name": "sigqsp-shared",
+  "version": "1.0.0",
+  "description": "Módulo Inicial (Shared) do Sistema Integrado da Gestão de Qualificação Social e Profissional (SIGQSP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeass/sigqsp-shared.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eeass/sigqsp-shared/issues"
+  },
+  "homepage": "https://github.com/eeass/sigqsp-shared#readme",
+  "dependencies": {
+    "@govbr-ds/core": "^3.7.0",
+    "keycloak-js": "^26.2.2",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
